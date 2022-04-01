@@ -138,8 +138,8 @@ section:first-child {
 @media (min-width: 809px) {
   main {
     background: url("images/bg-desktop.png") var(--clr-very-dark-blue);
-    background-position: center bottom;
-
+    background-position: top 50vh left;
+    background-size: contain;
     background-repeat: no-repeat;
   }
   .container {
